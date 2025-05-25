@@ -1,5 +1,5 @@
 # Anomaly-Detection-for-Credit-Card-Transactions
-Identifying anomalies on credit card transaction datasets
+Identifying anomalies on credit card transaction datasets using RStudio 
 
 This project follows the steps of Knowledge Discover Process (KDD):
 1. Data Preparation and Preprocessing
